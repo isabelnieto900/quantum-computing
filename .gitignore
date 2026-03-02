@@ -1,2 +1,11 @@
 venv/
-Algoritmos Cuánticos_Luis_Seijas.pdf
+*.pdf
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Jupyter
+.ipynb_checkpoints/
